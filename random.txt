@@ -1,0 +1,8 @@
+1. git init
+2. git status
+3. change whatever you want
+4. git status
+5. git add.
+6. git add <changed-file-name>
+7. git commint -m "explain shortly what you have changed"
+8. git push origin main
