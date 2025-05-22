@@ -1,3 +1,4 @@
+//Javascript code for the protfolio website
 // Mobile Navigation with smooth animation
 const hamburger = document.querySelector('.hamburger');
 const navLinks = document.querySelector('.nav-links');
